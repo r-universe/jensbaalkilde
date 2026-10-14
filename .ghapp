@@ -1,0 +1,10 @@
+{
+  "id": 171300193,
+  "created_at": "2026-10-14T09:13:21.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["JensBaalkilde.r-universe.dev"]
+}
